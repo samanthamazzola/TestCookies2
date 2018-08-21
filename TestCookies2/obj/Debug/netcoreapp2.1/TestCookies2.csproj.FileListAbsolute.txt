@@ -1,0 +1,6 @@
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.csprojAssemblyReference.cache
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.csproj.CoreCompileInputs.cache
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.RazorAssemblyInfo.cache
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.RazorAssemblyInfo.cs
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.AssemblyInfoInputs.cache
+/Users/samanthamazzola/Documents/Projects/TestCookies2/TestCookies2/obj/Debug/netcoreapp2.1/TestCookies2.AssemblyInfo.cs
