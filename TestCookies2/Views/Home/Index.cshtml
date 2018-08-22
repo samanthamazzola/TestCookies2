@@ -1,9 +1,17 @@
-﻿@{
+@{
     ViewBag.Title = "Home Page";
 }
 
-<a href="/Home/ChangeUnit?Unit=C">C</a> @*used to determine celsius or farenheidt*@ 
-<a href="/Home/ChangeUnit?Unit=F">F</a>
+@*<a href="/Home/ChangeUnit?Unit=C">C</a> @*http ACTIONS used to determine celsius or farenheidt*@ 
+@*<a href="/Home/ChangeUnit?Unit=F">F</a>*@
 
+<form action="/Home/ChangeUnit">
+    @*use name "Unit" in your input so that the form will submit and the Name either C/F will specify what is being used*@
+    Please enter a temperature: <input type="text" value="Temp" name="" />
+    <h3>Select temperature type: F/C </h3>
+    <input type="radio" value="C" name="Unit" /> C
+    <input type="radio" value="F" name="Unit" /> F
+    <input type="submit" value="Submit" />
+</form>
 
    <h3>@ViewBag.Temp</h3>
